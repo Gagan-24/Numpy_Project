@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Your Name
 - GitHub: [@Gagan-24](https://github.com/Gagan-24)
 <!-- - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile) -->
-- Email: your.email@example.com
+- Email: rgagan700@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -219,5 +219,6 @@ Your Name
 ⭐ **If you find this notebook helpful, please consider giving it a star!**
 
 📧 **Questions or suggestions?** Open an issue or reach out!
+
 
 **Happy Learning! 🎓**
